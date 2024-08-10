@@ -1,5 +1,5 @@
 Hi 👋, I'm Raydel
-Software Enginee and full stack web developer from Cuba.
+Software Engineer and full stack web developer from Cuba.
 
     🔭 I’m currently working on all kinds of freelance projects
 
